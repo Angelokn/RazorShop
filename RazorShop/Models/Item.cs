@@ -17,13 +17,14 @@ namespace RazorShop.Models
         public string Description { get; set; }
 
         [Required]
-        public string Category { get; set; }
+        public Category Category { get; set; }
 
         [Required]
         public int Quantity { get; set; }
 
         [Required]
-        public int Price { get; set; }
+        [Range(1, 1000)]
+        public double Price { get; set; }
 
 
     }
