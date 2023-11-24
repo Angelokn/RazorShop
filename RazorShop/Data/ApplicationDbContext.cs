@@ -1,6 +1,9 @@
-﻿namespace RazorShop.Data
+﻿using System.ComponentModel;
+
+namespace RazorShop.Data
 {
-    public class ApplicationDbContext
+    public class ApplicationDbContext 
     {
+
     }
 }
