@@ -9,7 +9,7 @@ namespace RazorShop.Models
         public int Id { get; set; }
 
         [Required]
-        [MaxLength(20)]
+        [MaxLength(35)]
         [DisplayName("Category Name")]
         public string Name { get; set; }
 

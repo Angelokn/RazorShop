@@ -26,8 +26,8 @@ namespace RazorShop.Data
                 new Category { Id = 4, Name = "Cleaning Products", DisplayOrder = 4 },
                 new Category { Id = 5, Name = "Toiletries", DisplayOrder = 5 },
                 new Category { Id = 6, Name = "Frozen Food", DisplayOrder = 6 },
-                new Category { Id = 7, Name = "Cold cuts and Sausages", DisplayOrder = 7 },
-                new Category { Id = 8, Name = "Eletronics", DisplayOrder = 8 },
+                new Category { Id = 7, Name = "Pets", DisplayOrder = 7 },
+                new Category { Id = 8, Name = "Electronics", DisplayOrder = 8 },
                 new Category { Id = 9, Name = "Toys", DisplayOrder = 9 },
                 new Category { Id = 10, Name = "Vegan", DisplayOrder = 10 }
                 );
