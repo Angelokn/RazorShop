@@ -1,5 +1,7 @@
-﻿using System.ComponentModel;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RazorShop.Models
 {
@@ -16,7 +18,10 @@ namespace RazorShop.Models
         [Required]
         public string Description { get; set; }
 
-        [Required]
+        public int CategoryId { get; set; }
+        
+        [ForeignKey(nameof(CategoryId))]
+        //[ValidateNever]
         public Category Category { get; set; }
 
         [Required]
