@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KHGx0lmiDRdbs26a6tWrGI8RUL+XQnWdrSuxupL3Ti12Oz3PFFcxxxr6hWBsksT/mpdNZs6mtWxKvrgzgf7bjw==",
+  "dgSpecHash": "7iijw72i3Oke23QIlNCw6mX0Ao3sv606m8QJSqR+zqdiRQsfv9Hv77Pb3eOlesslSA9Yt5h0XoNLPceXDSBgyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\Complete guide to ASP.NET Core MVC (.NET 8)\\project\\RazorShop\\RazorShop\\RazorShop.csproj",
+  "projectFilePath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\RazorShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

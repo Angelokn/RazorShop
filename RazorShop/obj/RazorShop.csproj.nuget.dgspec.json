@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\Complete guide to ASP.NET Core MVC (.NET 8)\\project\\RazorShop\\RazorShop\\RazorShop.csproj": {}
+    "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\RazorShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\Complete guide to ASP.NET Core MVC (.NET 8)\\project\\RazorShop\\RazorShop\\RazorShop.csproj": {
+    "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\RazorShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\Complete guide to ASP.NET Core MVC (.NET 8)\\project\\RazorShop\\RazorShop\\RazorShop.csproj",
+        "projectUniqueName": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\RazorShop.csproj",
         "projectName": "RazorShop",
-        "projectPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\Complete guide to ASP.NET Core MVC (.NET 8)\\project\\RazorShop\\RazorShop\\RazorShop.csproj",
+        "projectPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\RazorShop.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\Complete guide to ASP.NET Core MVC (.NET 8)\\project\\RazorShop\\RazorShop\\obj\\",
+        "outputPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
