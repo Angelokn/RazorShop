@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\angel\Documents\prog\pessoal\cursos\RazorShop\RazorShop
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/angel/Documents/prog/pessoal/cursos/RazorShop/RazorShop/Pages/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/angel/Documents/prog/pessoal/cursos/RazorShop/RazorShop/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
