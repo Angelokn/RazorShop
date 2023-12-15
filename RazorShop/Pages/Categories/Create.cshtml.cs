@@ -7,7 +7,7 @@ namespace RazorShop.Pages.Categories
 {
     public class CreateModel : PageModel
     {
-        public List<Category> CategoryList { get; set; }
+        public Category Category { get; set; }
 
         private readonly ApplicationDbContext _db;
 
