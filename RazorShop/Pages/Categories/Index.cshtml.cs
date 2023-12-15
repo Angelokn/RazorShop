@@ -7,9 +7,9 @@ namespace RazorShop.Pages.Categories
 {
     public class IndexModel : PageModel
     {
-        private readonly ApplicationDbContext _db;
-
         public List<Category> CategoryList { get; set; }
+
+        private readonly ApplicationDbContext _db;
 
         public IndexModel(ApplicationDbContext db)
         {
