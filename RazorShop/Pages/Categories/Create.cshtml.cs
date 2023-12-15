@@ -7,6 +7,7 @@ namespace RazorShop.Pages.Categories
 {
     public class CreateModel : PageModel
     {
+        [BindProperty]
         public Category Category { get; set; }
 
         private readonly ApplicationDbContext _db;
@@ -17,6 +18,14 @@ namespace RazorShop.Pages.Categories
         }
         public void OnGet()
         {
+        }
+
+        public IActionResult OnPost()
+        {
+            _db.Categories.Add(Category);
+            _db.SaveChanges();
+
+            return RedirectToPage("Index");
         }
     }
 }
