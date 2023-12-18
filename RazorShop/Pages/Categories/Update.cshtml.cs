@@ -5,9 +5,9 @@ using RazorShop.Models;
 
 namespace RazorShop.Pages.Categories
 {
+    [BindProperties]
     public class UpdateModel : PageModel
     {
-        [BindProperty]
         public Category Category { get; set; }
 
         private readonly ApplicationDbContext _db;
@@ -16,23 +16,27 @@ namespace RazorShop.Pages.Categories
         {
             _db = db;
         }
-        public void OnGet()
+        public void OnGet(int id)
         {
+            if(id!=null && id != 0)
+            {
+                Category = _db.Categories.Find(id);
+            }
         }
 
-        public IActionResult OnUpdate(int id)
+        public IActionResult OnPost()
         {
-            var category = _db.Categories.FirstOrDefault(u => u.Id == id);
 
-            if (category == null || id == 0)
+            if (ModelState.IsValid)
             {
-                return NotFound();
+                _db.Categories.Update(Category);
+                _db.SaveChanges();
+
+                return RedirectToPage("Index");
+
             }
-
-            _db.Update(category);
-            _db.SaveChanges();
-
-            return RedirectToAction("Index");
+            
+            return Page();
         }
     }
 }
