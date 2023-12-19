@@ -5,6 +5,7 @@ using RazorShop.Models;
 
 namespace RazorShop.Pages.Categories
 {
+    [BindProperties]
     public class DeleteModel : PageModel
     {
         public Category Category { get; set; }
@@ -15,23 +16,27 @@ namespace RazorShop.Pages.Categories
             _db = db;
         }
 
-        public void OnGet()
+        public void OnGet(int id)
         {
+            if (id != null && id != 0)
+            {
+                Category = _db.Categories.Find(id);
+            }
         }
 
         public IActionResult OnPost(int id)
         {
-            var categoryId = _db.Categories.FirstOrDefault(u => u.Id == id);
+            Category categoryId = _db.Categories.FirstOrDefault(u => u.Id == id);
 
-            if (ModelState.IsValid)
+            if(categoryId == null)
             {
-                _db.Categories.Remove(categoryId);
-                _db.SaveChanges();
-
-                return RedirectToPage("Index");
+                return NotFound();
             }
 
-            return Page();
+            _db.Categories.Remove(categoryId);
+            _db.SaveChanges();
+
+            return RedirectToPage("Index");
         }
     }
 }
