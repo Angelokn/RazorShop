@@ -15,19 +15,17 @@ namespace RazorShop.Pages.Categories
             _db = db;
         }
 
-        public void OnGet(int id)
+        public void OnGet()
         {
-            if (id != null && id != 0)
-            {
-                Category = _db.Categories.Find(id);
-            }
         }
 
-        public IActionResult OnPost()
+        public IActionResult OnPost(int id)
         {
+            var categoryId = _db.Categories.FirstOrDefault(u => u.Id == id);
+
             if (ModelState.IsValid)
             {
-                _db.Categories.Remove(Category);
+                _db.Categories.Remove(categoryId);
                 _db.SaveChanges();
 
                 return RedirectToPage("Index");
