@@ -54,8 +54,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/angel/Documents/prog/pessoal/cursos/RazorShop/RazorShop/Pages/Items/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/angel/Documents/prog/pessoal/cursos/RazorShop/RazorShop/Pages/Items/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/Documents/prog/pessoal/cursos/RazorShop/RazorShop/Pages/Items/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/angel/Documents/prog/pessoal/cursos/RazorShop/RazorShop/Pages/Privacy.cshtml]
