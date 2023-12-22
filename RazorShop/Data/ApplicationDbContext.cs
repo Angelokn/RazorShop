@@ -32,13 +32,62 @@ namespace RazorShop.Data
                 new Category { Id = 10, Name = "Vegan", DisplayOrder = 10 }
                 );
 
-            //modelBuilder.Entity<Item>().HasData(
-            //    new Item { Id = 1, Name = "Apple", Description = "", Category = "", Quantity = 30, Price = 2 },
-            //    new Item { Id = 1, Name = "Apple", Description = "", Category = "", Quantity = 30, Price = 2 },
-            //    new Item { Id = 1, Name = "Apple", Description = "", Category = "", Quantity = 30, Price = 2 },
-            //    new Item { Id = 1, Name = "Apple", Description = "", Category = "", Quantity = 30, Price = 2 },
-            //    new Item { Id = 1, Name = "Apple", Description = "", Category = "", Quantity = 30, Price = 2 },
-            //    );
+            modelBuilder.Entity<Item>().HasData(
+                new Item 
+                { 
+                    Id = 1,
+                    Name = "Apple",
+                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                    CategoryId = 1,
+                    Quantity = 30,
+                    Price = 2
+                },
+                new Item
+                {
+                    Id = 2,
+                    Name = "Banana (bunch)",
+                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                    CategoryId = 1,
+                    Quantity = 15,
+                    Price = 7
+                },
+                new Item
+                {
+                    Id = 3,
+                    Name = "Ground beef - 1kg",
+                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                    CategoryId = 2,
+                    Quantity = 10,
+                    Price = 30
+                },
+                new Item
+                {
+                    Id = 4,
+                    Name = "Detergent",
+                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                    CategoryId = 4,
+                    Quantity = 30,
+                    Price = 1.9
+                },
+                new Item
+                {
+                    Id = 5,
+                    Name = "Coke soda - 350ml",
+                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                    CategoryId = 3,
+                    Quantity = 60,
+                    Price = 4.5
+                },
+                new Item
+                {
+                    Id = 6,
+                    Name = "Toy car",
+                    Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                    CategoryId = 9,
+                    Quantity = 10,
+                    Price = 29.9
+                }
+                );
         }
     }
 }

@@ -20,8 +20,8 @@ namespace RazorShop.Models
 
         public int CategoryId { get; set; }
         
-        [ForeignKey(nameof(CategoryId))]
-        //[ValidateNever]
+        [ForeignKey("CategoryId")]
+        [ValidateNever]
         public Category Category { get; set; }
 
         [Required]

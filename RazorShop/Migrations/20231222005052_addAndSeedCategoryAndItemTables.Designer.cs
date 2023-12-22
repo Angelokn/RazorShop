@@ -11,8 +11,8 @@ using RazorShop.Data;
 namespace RazorShop.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231213203932_AddCategoryAndItemToDb")]
-    partial class AddCategoryAndItemToDb
+    [Migration("20231222005052_addAndSeedCategoryAndItemTables")]
+    partial class addAndSeedCategoryAndItemTables
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -138,6 +138,62 @@ namespace RazorShop.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Items");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CategoryId = 1,
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                            Name = "Apple",
+                            Price = 2.0,
+                            Quantity = 30
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CategoryId = 1,
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                            Name = "Banana (bunch)",
+                            Price = 7.0,
+                            Quantity = 15
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CategoryId = 2,
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                            Name = "Ground beef - 1kg",
+                            Price = 30.0,
+                            Quantity = 10
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CategoryId = 4,
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                            Name = "Detergent",
+                            Price = 1.8999999999999999,
+                            Quantity = 30
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CategoryId = 3,
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                            Name = "Coke soda - 350ml",
+                            Price = 4.5,
+                            Quantity = 60
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CategoryId = 9,
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.",
+                            Name = "Toy car",
+                            Price = 29.899999999999999,
+                            Quantity = 10
+                        });
                 });
 
             modelBuilder.Entity("RazorShop.Models.Item", b =>

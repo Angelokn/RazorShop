@@ -7,7 +7,7 @@
 namespace RazorShop.Migrations
 {
     /// <inheritdoc />
-    public partial class AddCategoryAndItemToDb : Migration
+    public partial class addAndSeedCategoryAndItemTables : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -64,6 +64,19 @@ namespace RazorShop.Migrations
                     { 8, 8, "Electronics" },
                     { 9, 9, "Toys" },
                     { 10, 10, "Vegan" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Items",
+                columns: new[] { "Id", "CategoryId", "Description", "Name", "Price", "Quantity" },
+                values: new object[,]
+                {
+                    { 1, 1, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.", "Apple", 2.0, 30 },
+                    { 2, 1, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.", "Banana (bunch)", 7.0, 15 },
+                    { 3, 2, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.", "Ground beef - 1kg", 30.0, 10 },
+                    { 4, 4, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.", "Detergent", 1.8999999999999999, 30 },
+                    { 5, 3, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.", "Coke soda - 350ml", 4.5, 60 },
+                    { 6, 9, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at.", "Toy car", 29.899999999999999, 10 }
                 });
 
             migrationBuilder.CreateIndex(
