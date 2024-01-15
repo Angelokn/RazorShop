@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorShop\\Pages\\Items\\Create.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T21:42:17.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T21:39:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml",
+              "RelativeToolTip": "RazorShop\\Pages\\Items\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-15T21:42:15.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-15T21:39:32.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T21:38:54.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-15T21:38:50.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
