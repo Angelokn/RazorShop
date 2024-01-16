@@ -36,7 +36,7 @@ namespace RazorShop.Pages.Items
             _db.Items.Add(item);
             _db.SaveChanges();
 
-            return RedirectToAction("Index");
+            return RedirectToPage("Index");
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc9e438ae21850748563fc9f95e580c2316f1345")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d3f05140bf882e14ce4da17206eca4108038d5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
