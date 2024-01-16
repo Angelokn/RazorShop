@@ -18,7 +18,7 @@
                     <span asp-validation-for="Item.Name" class="text-danger"></span>
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Item.Description" class="p-0">Display Order</label>
+                    <label asp-for="Item.Description" class="p-0">Description</label>
                     <input asp-for="Item.Description" class="form-control" />
                     <span asp-validation-for="Item.Description" class="text-danger"></span>
                 </div>
@@ -33,24 +33,19 @@
                     <span asp-validation-for="Item.Price" class="text-danger"></span>
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Item.Description" class="p-0">Display Order</label>
-                    <input asp-for="Item.Description" class="form-control" />
-                    <span asp-validation-for="Item.Description" class="text-danger"></span>
-                </div>
-@*                 <div class="mb-3 row p-1">
-                    <label asp-for="Item.CategoryId" class="p-0">Item</label>
-                    <select asp-for="Item.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                    <label asp-for="Item.Category" class="p-0">Category</label>
+                    <select asp-for="Item.Category"  class="form-select">
 
-                        <option disabled selected>-- Select Category --</option>
+                        <option disabled selected>-- select category --</option>
                     </select>
-                    <span asp-validation-for="Item.CategoryId" class="text-danger"></span>
-                </div> *@
+                    <span asp-validation-for="Item.Category" class="text-danger"></span>
+                </div>
                 <div class="row pt-2">
                     <div class="col-6 col-md-3">
                         <button type="submit" class="btn btn-success form-control">Create</button>
                     </div>
                     <div class="col-6 col-md-3">
-                        <a asp-page="/categories/index" class="btn btn-outline-primary form-control">
+                        <a asp-page="/items/index" class="btn btn-outline-primary form-control">
                             Back to List
                         </a>
                     </div>
