@@ -1,5 +1,6 @@
 ﻿@page
 @model RazorShop.Pages.Items.CreateModel
+@* @model RazorShop.Models.View_Models.ItemVM *@
 
 <form method="post">
     <div class="card shadow border-0 mt-4 ">
@@ -33,12 +34,12 @@
                     <span asp-validation-for="Item.Price" class="text-danger"></span>
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Item.Category" class="p-0">Category</label>
-                    <select asp-for="Item.Category"  class="form-select">
+                    <label asp-for="Item.CategoryId" class="p-0">Category</label>
+                    <select asp-for="Item.CategoryId" asp-items="@(ViewData["CategoryList"] as IEnumerable<SelectListItem>)" class="form-select">
 
                         <option disabled selected>-- select category --</option>
                     </select>
-                    <span asp-validation-for="Item.Category" class="text-danger"></span>
+                    <span asp-validation-for="Item.CategoryId" class="text-danger"></span>
                 </div>
                 <div class="row pt-2">
                     <div class="col-6 col-md-3">
