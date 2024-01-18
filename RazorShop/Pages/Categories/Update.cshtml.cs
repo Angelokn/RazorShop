@@ -31,12 +31,9 @@ namespace RazorShop.Pages.Categories
             {
                 _db.Categories.Update(Category);
                 _db.SaveChanges();
-
-                return RedirectToPage("Index");
-
             }
-            
-            return Page();
+
+            return RedirectToPage("Index");
         }
     }
 }
