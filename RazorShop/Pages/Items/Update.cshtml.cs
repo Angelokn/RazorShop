@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using RazorShop.Data;
 using RazorShop.Models;
 
@@ -20,13 +21,23 @@ namespace RazorShop.Pages.Items
             {
                 Item = _db.Items.Find(id);
             }
+
+            List<Item> objItemList = _db.Items.ToList();
+
+            IEnumerable<SelectListItem> CategoryList = _db.Categories.Select(u => new SelectListItem
+            {
+                Text = u.Name,
+                Value = u.Id.ToString()
+            });
+
+            ViewData["CategoryList"] = CategoryList;
         }
 
-        public IActionResult OnPost()
+        public IActionResult OnPost(Item item)
         {
             if(ModelState.IsValid)
             {
-                _db.Items.Update(Item);
+                _db.Items.Update(item);
                 _db.SaveChanges();
             }
 
