@@ -5,6 +5,9 @@ using RazorShop.Models;
 
 namespace RazorShop.Pages.Categories
 {
+    // using [BindProperty]
+    //using ViewData to pass data
+
     [BindProperties]
     public class DeleteModel : PageModel
     {

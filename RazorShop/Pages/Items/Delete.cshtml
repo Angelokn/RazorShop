@@ -35,9 +35,8 @@
                 </div>
                 <div class="mb-3 row p-1">
                     <label disabled asp-for="Item.CategoryId" class="p-0">Category</label>
-                    <select disabled asp-for="Item.CategoryId" asp-items="@(ViewData["CategoryList"] as IEnumerable<SelectListItem>)" class="form-select">
-
-                        <option disabled selected>-- select category --</option>
+                    <select disabled asp-for="Item.CategoryId" class="form-select">
+                        <option disabled selected>@Model.Item.Category.Name</option>
                     </select>
                     <span asp-validation-for="Item.CategoryId" class="text-danger"></span>
                 </div>
