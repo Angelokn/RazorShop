@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 193,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml",
               "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Update.cshtml",
@@ -92,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Update.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml.cs",
               "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Update.cshtml.cs",
               "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml.cs",
               "RelativeToolTip": "RazorShop\\Pages\\Categories\\Update.cshtml.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAswCQAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-18T18:11:28.927Z",
               "EditorCaption": ""
