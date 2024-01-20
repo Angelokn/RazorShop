@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\categories\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\categories\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 193,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,144 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Index.cshtml.cs",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Index.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-19T18:12:52.708Z",
-              "EditorCaption": ""
+              "DocumentIndex": 0,
+              "Title": "favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "RazorShop\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "RelativeToolTip": "RazorShop\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-01-19T18:39:03.316Z",
+              "EditorCaption": " - Icon [32x32, 32 bits, BMP]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-19T17:49:29.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Delete.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-19T17:49:28.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Delete.cshtml.cs",
-              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Delete.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-19T17:49:20.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Delete.cshtml",
-              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Delete.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-19T17:48:58.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Update.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml",
-              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Update.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-18T18:11:24.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Update.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Update.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAACcAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-18T18:11:07.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Update.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Update.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml.cs",
-              "RelativeToolTip": "RazorShop\\Pages\\Categories\\Update.cshtml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-18T18:11:28.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Update.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-18T18:11:08.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Create.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Create.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-16T20:04:29.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml.cs",
               "RelativeToolTip": "RazorShop\\Pages\\Items\\Create.cshtml.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwCYAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-16T20:04:30.432Z"
+              "WhenOpened": "2024-01-16T20:04:30.432Z",
+              "EditorCaption": ""
             }
           ]
         }
