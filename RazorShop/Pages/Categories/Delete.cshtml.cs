@@ -38,7 +38,7 @@ namespace RazorShop.Pages.Categories
 
             _db.Categories.Remove(categoryId);
             _db.SaveChanges();
-
+            TempData["success"] = "Category deleted successfully";
             return RedirectToPage("Index");
         }
     }
