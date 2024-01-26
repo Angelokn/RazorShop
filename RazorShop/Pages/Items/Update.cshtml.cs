@@ -39,6 +39,7 @@ namespace RazorShop.Pages.Items
             {
                 _db.Items.Update(item);
                 _db.SaveChanges();
+                TempData["success"] = "Item updated successfully";
             }
 
             return RedirectToPage("Index");
