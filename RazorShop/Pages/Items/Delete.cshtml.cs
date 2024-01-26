@@ -34,7 +34,7 @@ namespace RazorShop.Pages.Items
 
             _db.Items.Remove(item);
             _db.SaveChanges();
-
+            TempData["success"] = "Item deleted successfully";
             return RedirectToPage("Index");
         }
     }
