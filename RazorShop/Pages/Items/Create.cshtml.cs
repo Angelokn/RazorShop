@@ -35,7 +35,7 @@ namespace RazorShop.Pages.Items
         {
             _db.Items.Add(item);
             _db.SaveChanges();
-
+            TempData["success"] = "Item created successfully";
             return RedirectToPage("Index");
         }
     }
