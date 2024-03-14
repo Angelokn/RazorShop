@@ -1,4 +1,4 @@
-name: .NET pipeline
+name: .NET 8
 
 on:
     push:
