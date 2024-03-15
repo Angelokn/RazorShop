@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\razorshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\razorshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\.github\\workflows\\pipeline.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\.github\\workflows\\pipeline.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|c:\\users\\angel\\documents\\prog\\pessoal\\cursos\\razorshop\\razorshop\\pages\\items\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5133B8C8-6676-49C8-9D78-0B015C143C6C}|RazorShop\\RazorShop.csproj|solutionrelative:razorshop\\pages\\items\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,45 +51,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Update.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Update.cshtml.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-26T20:07:05.301Z",
+              "Title": "RazorShop",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\RazorShop.csproj",
+              "RelativeDocumentMoniker": "RazorShop\\RazorShop.csproj",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\RazorShop.csproj",
+              "RelativeToolTip": "RazorShop\\RazorShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T21:20:04.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "RelativeToolTip": "RazorShop\\Pages\\Items\\Delete.cshtml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-26T20:06:59.271Z",
+              "Title": "pipeline.yml",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\.github\\workflows\\pipeline.yml",
+              "RelativeDocumentMoniker": "RazorShop\\.github\\workflows\\pipeline.yml",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\.github\\workflows\\pipeline.yml",
+              "RelativeToolTip": "RazorShop\\.github\\workflows\\pipeline.yml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-14T20:25:01.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Update.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Update.cshtml.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Update.cshtml.cs",
+              "RelativeToolTip": "RazorShop\\Pages\\Items\\Update.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T20:07:05.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorShop\\Pages\\Items\\Delete.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T20:06:59.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorShop\\Pages\\Items\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Items\\Create.cshtml.cs",
               "RelativeToolTip": "RazorShop\\Pages\\Items\\Create.cshtml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAnAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-26T20:06:52.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-26T20:06:52.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Update.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Update.cshtml.cs",
               "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Update.cshtml.cs",
@@ -89,12 +120,11 @@
               "RelativeToolTip": "RazorShop\\Pages\\Categories\\Update.cshtml.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAAACEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-24T21:02:28.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-24T21:02:28.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Delete.cshtml.cs",
@@ -102,12 +132,11 @@
               "RelativeToolTip": "RazorShop\\Pages\\Categories\\Delete.cshtml.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAAwCgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-24T21:02:26.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-24T21:02:26.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\prog\\pessoal\\cursos\\RazorShop\\RazorShop\\Pages\\Categories\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorShop\\Pages\\Categories\\Create.cshtml.cs",
@@ -115,8 +144,7 @@
               "RelativeToolTip": "RazorShop\\Pages\\Categories\\Create.cshtml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAqwBoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-23T19:31:51.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-23T19:31:51.802Z"
             }
           ]
         }

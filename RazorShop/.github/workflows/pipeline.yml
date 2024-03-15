@@ -27,7 +27,7 @@ jobs:
         - name: Publish
           run: dotnet publish --no-restore --no-build --output ./publish
 
-          # uplod do artefato
+# uplod do artefato
         - name: Upload a Build Artifact
           uses: actions/upload-artifact@v2
           with:
